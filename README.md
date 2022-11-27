@@ -1,7 +1,13 @@
 # prieds-case-study
 
+## Assumptions
+
+* Valid input
+* No duplicate payloads
+
 ## TODO
-- [x] Inspect the codebase
-- [ ] Deploy the codebase locally
-- [ ] Working on the function
-- [ ] Check the implemented function
+
+- [X] Inspect the codebase
+- [X] Deploy the codebase locally
+- [X] Working on the function
+- [ ] Test the implemented function
