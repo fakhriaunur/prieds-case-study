@@ -26,4 +26,4 @@
 
 ## Postman Test Result
 
-![1669607425490](image/README/1669607425490.png)
+![PostmanTest](PostmanTest.png)
